@@ -1,0 +1,1 @@
+D:\Proyectos\SalesSystem\Sales system\Sales system\Sales system.csproj;x86
